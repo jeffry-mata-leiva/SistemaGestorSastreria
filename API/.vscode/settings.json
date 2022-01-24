@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4501934-5af5-4d85-ac3e-2b0176d4950b/resourceGroups/grupoRecursos1/providers/Microsoft.Web/sites/APIsgs",
+    "appService.deploySubpath": "."
+}

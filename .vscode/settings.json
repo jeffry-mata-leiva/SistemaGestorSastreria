@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e7989b6b-a31b-4ae8-93a2-906bd7bf9550/resourceGroups/grupoFrontEnd/providers/Microsoft.Web/sites/sastreriaSaraLehr",
+    "appService.deploySubpath": "."
+}
